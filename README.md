@@ -1,1 +1,1 @@
-# Workshop git github
+# Workshop git/github
